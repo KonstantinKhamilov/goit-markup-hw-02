@@ -90,8 +90,8 @@ body {
 }
 
 .section-two-h-three,
-.section3-h3,
-.section4-h3 {
+.section-three-h-three,
+.section-four-h-three {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
@@ -102,22 +102,22 @@ body {
 }
 
 .section-two-p,
-.section3-p,
-.section4-p {
+.section-three-p,
+.section-four-p {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
 
-.section3 {
+.section-three {
   background-color: #f4f4fd;
 }
 
-.section3-li {
+.section-three-li {
   background-color: #ffffff;
 }
 
-.section3-h2,
-.section4-h2 {
+.section-three-h2,
+.section-four-h-two {
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
