@@ -59,11 +59,11 @@ body {
   color: #404bbf;
 }
 
-.section1 {
+.section-one {
   background-color: #2e2f42;
 }
 
-.section1-h1 {
+.section-one-h1 {
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
@@ -73,7 +73,7 @@ body {
   color: #ffffff;
 }
 
-.section1-btn {
+.section-one-btn {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -84,12 +84,12 @@ body {
   cursor: pointer;
 }
 
-.section1-btn:hover,
-.section1-btn:focus {
+.section-one-btn:hover,
+.section-one-btn:focus {
   background-color: #404bbf;
 }
 
-.section2-h3,
+.section-two-h3,
 .section3-h3,
 .section4-h3 {
   font-family: Roboto;
@@ -101,7 +101,7 @@ body {
   color: #2e2f42;
 }
 
-.section2-p,
+.section-two-p,
 .section3-p,
 .section4-p {
   line-height: 24px;
@@ -112,12 +112,16 @@ body {
   background-color: #f4f4fd;
 }
 
+.section3-li {
+  background-color: #ffffff;
+}
+
 .section3-h2,
 .section4-h2 {
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11em;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
